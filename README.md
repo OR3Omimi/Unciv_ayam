@@ -1,4 +1,4 @@
-# Unciv - Civ V remake for Android & Desktop
+# Unciv - Civ V remake untuk Android
 
 ![](/extraImages/GithubPreviewImage.jpg)
 
@@ -14,19 +14,19 @@
 [![Discord](https://img.shields.io/discord/586194543280390151?color=%237289DA&logo=discord&logoColor=%23FFFFFF)](https://discord.gg/bjrB4Xw)
 
 
-## What is this?
+## Apa ini?
 
-An open source, moddability-focused Android and Desktop remake of Civ V, made with LibGDX
+Sumber terbuka, berfokus pada moddabilitas Android Dan Desktop remake of Civ V, dibuat dengan LibGDX
 
-## Is this any good?
+## Apakah ini bagus?
 
-Depends what you're looking for. If you're in the market for high-res graphics, amazing soundtracks, animations etc, I highly recommend Firaxis's Civ-V-like game, "Civilization V".
+Tergantung apa yang Anda cari. Jika Anda mencari grafis beresolusi tinggi, soundtrack luar biasa, animasi, dll, saya sangat merekomendasikan Firaxis Civ-V-seperti permainan, "Civilization V".
 
-If you want a small, fast, moddable, FOSS, in-depth 4X that can still run on a potato, you've come to the right place :)
+Jika Anda menginginkan 4X kecil, cepat, dapat dimodifikasi, FOSS, dan mendalam yang masih dapat dijalankan pada kentang, Anda telah datang ke tempat yang tepat :)
 
-## What's the roadmap?
+## Apa peta jalannya?
 
-In this order:
+Dalam urutan ini:
 
 * Polish! As you may have noticed, Unciv is fully functional but rough around the edges. This means:
     * UI+UX improvements ([suggestions welcome!](https://github.com/yairm210/Unciv/issues/new?assignees=&labels=feature&template=feature_request.md&title=Feature+request%3A+))
